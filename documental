@@ -9,21 +9,27 @@ https://edge1-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-mp4a_144
 #EXTINF:-1,  History
 https://edge1-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
-
 #EXTINF:-1,  History 2
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-mp4a_144800_spa=20000-avc1_530000=10000.m3u8
-
+https://edge1-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
 #EXTINF:-1,  Discovery (ID)
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID-mp4a_144800_spa=20000-avc1_530000=10000.m3u8
+https://edge1-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
 #EXTINF:-1,  Discovery H&H
+https://edge1-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-mp4a_145200_spa=20002-avc1_4999936=10006.m3u8
 
-https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-mp4a_145200_spa=20002-avc1_899968=10000.m3u8
+#EXTINF:-1,  Animal Planet
+https://edge9-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
+#EXTINF:-1,  TLC Discovery
+https://edge9-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
+#EXTINF:-1,  Discovery Turbo
+https://edge9-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-mp4a_144800_spa=20000-avc1_4999936=10010.m3u8
 
+#EXTINF:-1, El Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w223009862_b1296000_sleng.m3u85
 
-
-
+#EXTINF:-1, NatGeo Wild
+https://edge1-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-mp4a_144800_spa=20001-avc1_3000000=10004.m3u8
 
