@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1,Discovery Channel
-https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-mp4a_144800_spa=20001-avc1_678000=10000.m3u8
-
+https://edge1-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD-mp4a_144800_spa=20001-avc1_3900000=10004.m3u8
 
 #EXTINF:-1,  National Geographic
-https://edge-vod02-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-mp4a_144800_spa=20000-avc1_1480000=10002.m3u8
+https://edge1-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
 
 #EXTINF:-1,  History
-https://edge-vod02-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-mp4a_144800_spa=20000-avc1_530000=10000.m3u8
+https://edge1-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
+
 
 #EXTINF:-1,  History 2
 https://edge-vod02-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2-mp4a_144800_spa=20000-avc1_530000=10000.m3u8
