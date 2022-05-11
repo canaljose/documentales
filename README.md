@@ -6,9 +6,6 @@ https://edge-vod02-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/Discovery
 
 
 
-#EXTINF:-1,  AMC
-#EXTINF:-1,  AMC
-#EXTINF:-1,  AMC
 
 
 
